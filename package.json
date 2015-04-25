@@ -1,0 +1,25 @@
+{
+  "name": "lab27",
+  "version": "1.0.0",
+  "description": "lab27",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dianaromero8888/lab27.git"
+  },
+  "keywords": [
+    "Data2015"
+  ],
+  "author": "Diana",
+  "license": "gpl",
+  "bugs": {
+    "url": "https://github.com/dianaromero8888/lab27/issues"
+  },
+  "homepage": "https://github.com/dianaromero8888/lab27",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
